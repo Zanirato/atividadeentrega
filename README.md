@@ -9,7 +9,7 @@ Ao finalizar a página inicial de cadastro, ela ficará como a imagem abaixo:
 ![Captura de tela 2024-11-11 144239](https://github.com/user-attachments/assets/7bba8605-d229-458c-a95c-a690c2c1781b)
 
 
-A página de atualização, ao ser estilizado:
+A página de atualização, ao ser estilizada:
 
 ![Captura de tela 2024-11-11 150646](https://github.com/user-attachments/assets/9263d30b-4fdd-4166-acee-f679d447eec7)
 
