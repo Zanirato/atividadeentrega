@@ -1,0 +1,89 @@
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-content: center;
+  text-align: center;
+  background-color: rgb(38, 31, 114);
+  height: 100vh;
+  margin: 0;
+}
+  
+h1 {
+  color: rgb(136, 172, 239);
+  margin-bottom: 20px;
+}
+
+form {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #160a52;
+  border: 1px solid #010230;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+label {
+  color: azure;
+  display: block;
+  margin-bottom: 10px;
+}
+  
+input[type="text"], input[type="date"] {
+  width: 50%;
+  height: 30px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+  
+input[type="submit"] {
+  width: 200px;
+  height: 40px;
+  background-color: rgb(136, 172, 239);
+  color: #fff;
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+}
+  
+input[type="submit"]:hover {
+  background-color: rgb(96, 123, 209);
+  border-radius: 40px;
+}
+  
+hr {
+  margin-top: 40px;
+  border: none;
+  border-top: 1px solid rgb(136, 172, 239);
+}
+  
+h2 {
+  color: rgb(136, 172, 239);
+  margin-bottom: 20px;
+}
+  
+div {
+  color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  width: 80%; /* ajuste o valor de acordo com a largura desejada */
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 100%; /* ajuste o valor de acordo com a largura desejada */
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+  
+ 

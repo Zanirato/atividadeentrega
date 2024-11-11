@@ -1,0 +1,64 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(38, 31, 114);
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    align-content: center;
+  }
+  
+  h1 {
+    color: rgb(136, 172, 239);
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  form {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #160a52;
+    border: 1px solid #010230;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+ 
+  label {
+    color: azure;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"], input[type="date"] {
+    width: 50%;
+    height: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  input[type="submit"] {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(136, 172, 239);
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: rgb(96, 123, 209);
+    border-radius: 40px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(136, 172, 239);
+  }
+  
+  a:hover {
+    color: rgb(96, 123, 209);
+  }
